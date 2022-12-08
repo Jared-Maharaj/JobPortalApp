@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1609453190",
+    "project_id": "cyberneticsjobportal-2cdaf",
+    "storage_bucket": "cyberneticsjobportal-2cdaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1609453190:android:da0e075d895eed50a70b07",
+        "android_client_info": {
+          "package_name": "com.example.cyberneticsjobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1609453190-iri5t24ctr9ddql5k1ua7fshsgk0qgnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8q3WcHLfv5fki5VS3aJp5tmnSmLsgHSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1609453190-iri5t24ctr9ddql5k1ua7fshsgk0qgnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
